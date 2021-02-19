@@ -52,3 +52,12 @@ JSON's basic data types are:
 |intend|企图,打算.|
 |represent|代表,象征.|
 |associative|相关联的.|
+
+# COC.NVIM README
+
+[Jump to webpage](https://github.com/neoclide/coc.nvim)
+
+|Word|Comment|
+|----|----|
+|snippet|片段.|
+|instant|立即的.|
