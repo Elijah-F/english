@@ -45,7 +45,7 @@
 
 - The terms asynchronous and non-blocking are closely related and often used interchangably, but they are not quite the same thing.
 
-# others
+# tornado
 
 | Word                | Comment                                     |
 | :---:               | :---:                                       |
@@ -71,7 +71,6 @@
 | decalaring          | 宣告                                        |
 | imagine             | 想象，猜想                                  |
 | require             | 需要，需求                                  |
-| tirgger             | 触发                                        |
 | infinitely scalable | 无限制扩展                                  |
 | manually            | 手动的                                      |
 | parse               | 解析                                        |
