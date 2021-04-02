@@ -26,7 +26,7 @@
 | gender            | 性别                                         |
 | spouse            | 配偶                                         |
 | prospective       | 预期                                         |
-| consern           | 关心                                         |
+| concern           | 关心                                         |
 | aging population  | 人口老龄化                                   |
 | health care costs | 医疗费用                                     |
 | policy            | 政策                                         |
@@ -35,6 +35,6 @@
 | bind              | 捆绑，约束                                   |
 | tide              | 潮汐 tide over 度过                          |
 | elder             | 长老，长者                                   |
-| contract          | 合同，合约 contrast serious illness 换上重病 |
+| contract          | 合同，合约 contract serious illness 换上重病 |
 | accustom          | 习惯                                         |
 | obligation        | 义务                                         |
