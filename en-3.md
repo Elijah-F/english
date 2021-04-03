@@ -38,3 +38,6 @@
 | contract          | 合同，合约 contract serious illness 换上重病 |
 | accustom          | 习惯                                         |
 | obligation        | 义务                                         |
+| captcha           | 验证码                                       |
+| norm              | 规范，标准                                   |
+| care for          | 关心，照顾                                   |
