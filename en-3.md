@@ -1,4 +1,6 @@
-# 2019.6
+# 2019.6（一）
+
+## passage one
 
 | Word              | Comment                                      |
 | :---:             | :---:                                        |
@@ -41,3 +43,14 @@
 | captcha           | 验证码                                       |
 | norm              | 规范，标准                                   |
 | care for          | 关心，照顾                                   |
+
+## passage two
+
+| Word       | Comment                                               |
+| :---:      | :---:                                                 |
+| upset      | 沮丧的                                                |
+| tackle     | 处理，应对 tackle this topic head-on 正面处理这个问题 |
+| familiar   | 熟悉的                                                |
+| classify   | 分类                                                  |
+| misname    | 误称                                                  |
+| to do with | 和...有关                                             |
