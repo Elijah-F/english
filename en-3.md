@@ -46,11 +46,27 @@
 
 ## passage two
 
-| Word       | Comment                                               |
-| :---:      | :---:                                                 |
-| upset      | 沮丧的                                                |
-| tackle     | 处理，应对 tackle this topic head-on 正面处理这个问题 |
-| familiar   | 熟悉的                                                |
-| classify   | 分类                                                  |
-| misname    | 误称                                                  |
-| to do with | 和...有关                                             |
+| Word                           | Comment                                                        |
+| :---:                          | :---:                                                          |
+| upset                          | 沮丧的                                                         |
+| tackle                         | 处理，应对 tackle this topic head-on 正面处理这个问题          |
+| familiar                       | 熟悉的                                                         |
+| classify                       | 分类                                                           |
+| misname                        | 误称                                                           |
+| to do with                     | 和...有关                                                      |
+| journal                        | 杂志                                                           |
+| invariably                     | 总是，不变的                                                   |
+| fish                           | out 捞出                                                       |
+| pond                           | 池塘                                                           |
+| significance                   | 意义，重要性                                                   |
+| initial                        | 最初的                                                         |
+| internal                       | 内部的                                                         |
+| resemblance                    | 相似                                                           |
+| semblance                      | 外表，相似                                                     |
+| survey                         | 调查 separate survey 单独调查                                  |
+| cross                          | 交叉，横过                                                     |
+| boundary                       | 边界 hardly ever crossed these boundaries 几乎没有越过这些边界 |
+| graduate                       | 毕业 undergraduate 大学本科                                    |
+| slightly                       | 轻微的                                                         |
+| given traditional gender norms | 根据传统的性别规范                                             |
+| frustrated                     | 沮丧的                                                         |
