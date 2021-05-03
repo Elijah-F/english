@@ -26,3 +26,24 @@
 | stare at                       | 凝视，盯住         |
 | fountain pen                   | 钢笔               |
 | take apart                     | 拆开，拆卸         |
+| by chance                      | 偶然地             |
+| a peal of                      | 一阵               |
+| a gleam of                     | 一丝，一线         |
+| a hint of                      | 少许，一点点       |
+| sink into a reverie            | 陷入沉思           |
+| in addition to                 | 除..之外           |
+| under pain of death            | 死亡为代价         |
+| on account of                  | 由于，因为         |
+| fairy tale                     | 童话故事           |
+| once upon a time               | 从前               |
+| true to life                   | 逼真的             |
+| now good, now bad              | 时好时坏           |
+| fair-to-middling               | 过得去             |
+| be seized with                 | 被..影响           |
+| sprout of radish               | 萝卜芽             |
+| get rid of                     | 摆脱               |
+| pull up                        | 拔起，阻止         |
+| pull off                       | 推迟               |
+| be infested with               | 大批滋生           |
+| until it is time               | 时机成熟           |
+| bit by bit                     | 一点点地           |

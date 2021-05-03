@@ -70,4 +70,48 @@
 | toss          | 抛，投         | horn          | 角，号角         |
 | bend          | 使弯曲         | acquaintance  | 熟人，相识       |
 | judge         | 法官           | dedicate      | 致力，献身       |
-| dedication    | 献身，赠言     |               |                  |
+| dedication    | 献身，赠言     | reveal        | 揭露             |
+| modestly      | 谨慎的         | peal          | 响亮的声音       |
+| irritate      | 激怒           | misfortune    | 不幸，灾祸       |
+| impenetrable  | 令人费解的     | demand        | 要求，询问       |
+| reply         | 回答           | sink          | 下沉             |
+| reverie       | 幻想，沉思     | contemplation | 沉思，注视       |
+| treasure      | 宝藏，财宝     | arouse        | 唤醒             |
+| reflective    | 反射的，沉思的 | string        | 细绳             |
+| queer         | 奇怪的         | earnestly     | 认真地，诚挚地   |
+| telescope     | 望远镜         | astronomer    | 天文学家         |
+| asteroid      | 小行星         | present       | 提供，呈递       |
+| congress      | 国会           | demonstration | 证明，示范       |
+| costume       | 服装，装束     | dictator      | 独裁者           |
+| impressive    | 给人印象深刻   | elegance      | 高雅，典雅       |
+| essential     | 本质的，必要的 | butterfly     | 蝴蝶             |
+| rosy          | 玫瑰红色       | dove          | 白鸽             |
+| roof          | 屋顶           | exclaim       | 惊叫             |
+| brick         | 砖块           | fairy         | 仙女，精灵       |
+| tale          | 故事           | shrug         | 耸肩             |
+| convince      | 使确信，使信服 | forbearance   | 忍耐，宽容       |
+| suffer        | 遭受           | grief         | 悲痛，不幸       |
+| paint         | 颜料           | fumble        | 摸索             |
+| depatrue      | 离开           | journey       | 旅行             |
+| catastrophe   | 大灾难         | abruptly      | 突然的           |
+| seize         | 抓住，夺取     | grave         | 重大的           |
+| bush          | 灌木丛         | contrary      | 相反的           |
+| castle        | 城堡           | herd          | 成群             |
+| self-evident  | 不言而喻的     | oblige        | 迫使，强制       |
+| invisible     | 无形的         | desire        | 渴望             |
+| stretch       | 伸展，张开     | timidly       | 胆小的，羞怯的   |
+| offecsive     | 攻击的，冒犯的 | upward        | 向上的           |
+| instant       | 立即的，紧迫的 | bore          | 钻孔             |
+
+# 101-200
+
+| WORD       | TRANSLATION    | WORD          | TRANSLATION      |
+| :---:      | :---:          | :---:         | :---:            |
+| discipline | 纪律，训练     | attend        | 出席照料         |
+| tedious    | 冗长乏味的     | considerable  | 相当大的，重要的 |
+| inhabit    | 居住于，占据   | neglect       | 忽视，忽略       |
+| tone       | 语气，音调     | moralist      | 道德家           |
+| plainly    | 明确的，坦率的 | skirt         | 裙子，绕过       |
+| inspiring  | 鼓舞人心的     | urgent        | 急迫的，紧急的   |
+| necessity  | 需要，必要性   | entertainment | 娱乐，沟通       |
+| fond       | 喜欢           | twilight      | 黎明，黄昏       |
