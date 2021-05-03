@@ -47,3 +47,12 @@
 | be infested with               | 大批滋生           |
 | until it is time               | 时机成熟           |
 | bit by bit                     | 一点点地           |
+| lead up to                     | 导致               |
+| at all                         | 根本，完全         |
+| come up                        | 发芽，提出         |
+| be present at                  | 出席               |
+| sort of                        | 有几分的，稍稍的   |
+| watering can                   | 水壶               |
+| take advantage of              | 利用               |
+| a flock of                     | 一群               |
+| carry out                      | 执行，实施         |
