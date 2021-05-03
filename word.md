@@ -187,4 +187,40 @@
 | promptly      | 迅速地，立即地     | favorable     | 有利的，良好的     |
 | favor         | 较喜欢，赞同       | ambassador    | 大使               |
 | hastily       | 匆忙的，急速的     | forsake       | 放弃，抛弃         |
-| monarch       | 君主，帝王         |
+| monarch       | 君主，帝王         | conceit       | 自负，狂妄         |
+| afar          | 遥远地，在远处     | salute        | 致敬，敬礼         |
+| acclaim       | 为..欢呼，喝彩     | direct        | 指导，定向的       |
+| entertaining  | 令人愉快的         | exercise      | 练习，运用         |
+| monotony      | 单调，千篇一律     | praise        | 赞扬，称赞         |
+| intelligent   | 聪明的             | tippler       | 酒鬼               |
+| plunge        | 使突然下落         | dejection     | 沮丧               |
+| lugubrious    | 悲哀的，悲惨的     | confess       | 承认，坦白         |
+| speech        | 演讲，讲话         | impregnable   | 坚固的，无法攻取的 |
+| puzzle        | 使困惑             | occupy        | 占领，占据         |
+| cigarette     | 香烟，纸烟         | light         | 照亮，点燃         |
+| phew          | 唷，哦             | amuse         | 娱乐，消遣         |
+| balderdash    | 胡言乱语           | giddy         | 令人眼花缭乱的     |
+| goose         | 鹅                 | frightful     | 可怕的，惊人的     |
+| resound       | 回响，鸣响         | rheumatism    | 风湿病             |
+| loaf          | 虚度光阴           | glitter       | 闪光，闪烁         |
+| accurate      | 精确的             | reign         | 统治               |
+| nevertheless  | 然而，不过         | retort        | 反驳，回嘴         |
+| peevishly     | 急躁的，暴躁的     | patent        | 专利权             |
+| silk          | 丝绸的             | scarf         | 围巾               |
+
+
+# 201-300
+
+| WORD          | TRANSLATION        | WORD          | TRANSLATION        |
+| :---:         | :---:              | :---:         | :---:              |
+| neck          | 脖子               | pluck         | 采摘，扯           |
+| poetic        | 诗的，诗意的       | consequence   | 结果，重要性       |
+| conversation  | 会话，交谈         | lamp          | 灯，照射器         |
+| lamplighter   | 点灯用具，灯夫     | occupation    | 占有，职业         |
+| respectfully  | 尊敬地             | mop           | 用拖把拖           |
+| handkerchief  | 手帕               | tragedy       | 悲剧，灾难         |
+| repose        | 休息，睡眠         | faithful      | 忠实的，忠诚的     |
+| merely        | 仅仅，只不过       | stride        | 大步，步幅         |
+| scorn         | 嘲笑               | ridiculous    | 可笑的，荒谬的     |
+| regret        | 后悔的             | dare          | 胆敢，挑战         |
+| seek          | 寻找               |
