@@ -231,7 +231,7 @@
 | voluminous   | 大量的           | pant         | 气喘           |
 | stately      | 庄严的           | inquiry      | 探究，调查     |
 | moral        | 道德的           | character    | 性格，品质     |
-| intoxicated  | 喝醉的           | fuinish      | 提供，供应     |
+| intoxicated  | 喝醉的           | furnish      | 提供，供应     |
 | stir         | 搅拌，激发       | sharpen      | 削尖，变锋利   |
 | sharp        | 锋利的，急剧的   | recital      | 吟诵           |
 | ink          | 墨水             | expectant    | 期待的         |
@@ -242,4 +242,4 @@
 | spectacle    | 场面，景象       | regulate     | 调节，控制     |
 | ballet       | 芭蕾舞           | opera        | 歌剧院         |
 | charge       | 掌管，充电，控告 | colleague    | 同事           |
-| toil         | 苦干             | care         | 照料,忧虑      |
+| toil         | 苦干，辛勤劳动   | care         | 照料,忧虑      |
