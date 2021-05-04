@@ -211,16 +211,35 @@
 
 # 201-300
 
-| WORD          | TRANSLATION        | WORD          | TRANSLATION        |
-| :---:         | :---:              | :---:         | :---:              |
-| neck          | 脖子               | pluck         | 采摘，扯           |
-| poetic        | 诗的，诗意的       | consequence   | 结果，重要性       |
-| conversation  | 会话，交谈         | lamp          | 灯，照射器         |
-| lamplighter   | 点灯用具，灯夫     | occupation    | 占有，职业         |
-| respectfully  | 尊敬地             | mop           | 用拖把拖           |
-| handkerchief  | 手帕               | tragedy       | 悲剧，灾难         |
-| repose        | 休息，睡眠         | faithful      | 忠实的，忠诚的     |
-| merely        | 仅仅，只不过       | stride        | 大步，步幅         |
-| scorn         | 嘲笑               | ridiculous    | 可笑的，荒谬的     |
-| regret        | 后悔的             | dare          | 胆敢，挑战         |
-| seek          | 寻找               |
+| WORD         | TRANSLATION      | WORD         | TRANSLATION    |
+| :---:        | :---:            | :---:        | :---:          |
+| neck         | 脖子             | pluck        | 采摘，扯       |
+| poetic       | 诗的，诗意的     | consequence  | 结果，重要性   |
+| conversation | 会话，交谈       | lamp         | 灯，照射器     |
+| lamplighter  | 点灯用具，灯夫   | occupation   | 占有，职业     |
+| respectfully | 尊敬地           | mop          | 用拖把拖       |
+| handkerchief | 手帕             | tragedy      | 悲剧，灾难     |
+| repose       | 休息，睡眠       | faithful     | 忠实的，忠诚的 |
+| merely       | 仅仅，只不过     | stride       | 大步，步幅     |
+| scorn        | 嘲笑             | ridiculous   | 可笑的，荒谬的 |
+| regret       | 后悔的           | dare         | 胆敢，挑战     |
+| seek         | 寻找             | compose      | 构成，组成     |
+| scale        | 规模             | imply        | 意味，暗示     |
+| transparent  | 透明的，显然的   | transform    | 转换           |
+| suspend      | 暂停，延缓       | resume       | 重新开始       |
+| explicit     | 明确的，清楚的   | conceptually | 概念上         |
+| voluminous   | 大量的           | pant         | 气喘           |
+| stately      | 庄严的           | inquiry      | 探究，调查     |
+| moral        | 道德的           | character    | 性格，品质     |
+| intoxicated  | 喝醉的           | fuinish      | 提供，供应     |
+| stir         | 搅拌，激发       | sharpen      | 削尖，变锋利   |
+| sharp        | 锋利的，急剧的   | recital      | 吟诵           |
+| ink          | 墨水             | expectant    | 期待的         |
+| ephemeral    | 短暂的           | eternal      | 永恒的         |
+| speedy       | 快的，迅速的     | reputation   | 名誉，声望     |
+| continent    | 大陆，洲         | veritable    | 名副其实的     |
+| army         | 军队             | splendid     | 辉煌的         |
+| spectacle    | 场面，景象       | regulate     | 调节，控制     |
+| ballet       | 芭蕾舞           | opera        | 歌剧院         |
+| charge       | 掌管，充电，控告 | colleague    | 同事           |
+| toil         | 苦干             | care         | 照料,忧虑      |

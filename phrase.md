@@ -56,4 +56,5 @@
 | take advantage of              | 利用               |
 | a flock of                     | 一群               |
 | carry out                      | 执行，实施         |
-|a collection of|一批，一些|
+| a collection of                | 一批，一些         |
+| in charge of                   | 负责，主管         |
