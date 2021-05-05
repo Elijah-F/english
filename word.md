@@ -263,3 +263,5 @@
 | annoy        | 惹怒             | dreadful     | 可怕的，糟透的   |
 | pretend      | 假装，伪装       | nurse        | 护士，照料       |
 | humble       | 使谦恭           |              |                  |
+| spade        | 黑桃             | diamond      | 方块             |
+| club         | 梅花             | heart        | 桃心             |
