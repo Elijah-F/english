@@ -30,4 +30,12 @@
 | watering can                   | 水壶               | take advantage of           | 利用             |
 | a flock of                     | 一群               | carry out                   | 执行，实施       |
 | a collection of                | 一批，一些         | in charge of                | 负责，主管       |
-| be overcome with               | 为...所压倒/制服   |                             |                  |
+| be overcome with               | 为...所压倒/制服   | establish tie               | 建立联系         |
+| sort of thing                  | 诸如此类的东西     | at the hour advance         | 提前一小时       |
+| draw near                      | 靠近，接近         | any sort of harm            | 任意形式的伤害   |
+| sort                           | 挑选出，分类       | rush by                     | 快速通过         |
+| express train                  | 特快列车           | rag doll                    | 布洋娃娃         |
+| an amount of                   | 数量，总量         | last drop                   | 最后一滴         |
+| to do with                     | 与...有关          | look across                 | 眺望，展望       |
+| drop off to sleep              | 睡着了             | set out                     | 出发，开始       |
+| locks of hair                  | 几缕头发           | a puff of                   | 一阵（风，烟雾） |
