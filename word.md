@@ -211,102 +211,137 @@
 
 # 201-300
 
-| WORD         | TRANSLATION        | WORD          | TRANSLATION      |
-| :---:        | :---:              | :---:         | :---:            |
-| neck         | 脖子               | pluck         | 采摘，扯         |
-| poetic       | 诗的，诗意的       | consequence   | 结果，重要性     |
-| conversation | 会话，交谈         | lamp          | 灯，照射器       |
-| lamplighter  | 点灯用具，灯夫     | occupation    | 占有，职业       |
-| respectfully | 尊敬地             | mop           | 用拖把拖         |
-| handkerchief | 手帕               | tragedy       | 悲剧，灾难       |
-| repose       | 休息，睡眠         | faithful      | 忠实的，忠诚的   |
-| merely       | 仅仅，只不过       | stride        | 大步，步幅       |
-| scorn        | 嘲笑               | ridiculous    | 可笑的，荒谬的   |
-| regret       | 后悔的             | dare          | 胆敢，挑战       |
-| seek         | 寻找               | compose       | 构成，组成       |
-| scale        | 规模               | imply         | 意味，暗示       |
-| transparent  | 透明的，显然的     | transform     | 转换             |
-| suspend      | 暂停，延缓         | resume        | 重新开始         |
-| explicit     | 明确的，清楚的     | conceptually  | 概念上           |
-| voluminous   | 大量的             | pant          | 气喘             |
-| stately      | 庄严的             | inquiry       | 探究，调查       |
-| moral        | 道德的             | character     | 性格，品质       |
-| intoxicated  | 喝醉的             | furnish       | 提供，供应       |
-| stir         | 搅拌，激发         | sharpen       | 削尖，变锋利     |
-| sharp        | 锋利的，急剧的     | recital       | 吟诵             |
-| ink          | 墨水               | expectant     | 期待的           |
-| ephemeral    | 短暂的             | eternal       | 永恒的           |
-| speedy       | 快的，迅速的       | reputation    | 名誉，声望       |
-| continent    | 大陆，洲           | veritable     | 名副其实的       |
-| army         | 军队               | splendid      | 辉煌的           |
-| spectacle    | 场面，景象         | regulate      | 调节，控制       |
-| ballet       | 芭蕾舞             | opera         | 歌剧院           |
-| charge       | 掌管，充电，控告   | colleague     | 同事             |
-| toil         | 苦干，辛勤劳动     | care          | 照料,忧虑        |
-| wit          | 智慧，才智         | wander        | 徘徊，迷路       |
-| upright      | 正直的，垂直的     | crowd         | 挤满，人群       |
-| assembly     | 集会，集合         | pile          | 堆积，积累       |
-| pacific      | 太平洋，温和的     | islet         | 小岛             |
-| somewhat     | 有点，稍微         | fancy         | 喜爱，设想       |
-| adore        | 崇拜，爱慕         | coil          | 线圈，一圈       |
-| gold         | 金，金色           | courteous     | 有礼貌的，谦恭的 |
-| gaze         | 凝视，注视         | whence        | 从何处           |
-| twine        | 使缠绕             | ankle         | 脚踝             |
-| bracelet     | 手镯，手链         | innocent      | 无辜的，天真的   |
-| granite      | 花岗岩，冷酷无情   | homesick      | 想家的           |
-| riddle       | 谜语               | politely      | 有礼貌的         |
-| caravan      | 拖车，大蓬车       | echo          | 重复，随声附和   |
-| footstool    | 脚凳               | needle        | 针               |
-| point        | 要点，得分，尖     | harsh         | 严酷的，严厉的   |
-| forbidding   | 禁止，冷峻的       | abode         | 住处             |
-| abloom       | 开满花的           | overcome      | 克服             |
-| annoy        | 惹怒               | dreadful      | 可怕的，糟透的   |
-| pretend      | 假装，伪装         | nurse         | 护士，照料       |
-| humble       | 使谦恭             | propose       | 建议，打算       |
-| spade        | 黑桃               | diamond       | 方块             |
-| club         | 梅花               | heart         | 桃心             |
-| tame         | 驯养               | disturbing    | 令人不安的       |
-| tie          | 系，关系           | perplex       | 使困惑           |
-| shine        | 照射，发光         | underneath    | 在...下面        |
-| burrow       | 洞穴，地洞         | grain         | 粮食，谷物       |
-| yonder       | 在那边，那边的     | wheat         | 小麦             |
-| advance      | 发展，前进         | rite          | 惯例，习俗       |
-| village      | 村庄，村民         | vineyard      | 葡萄园           |
-| vacation     | 假期               | present       | 出席，礼物       |
-| passerby     | 过路人，行人       | grumble       | 抱怨             |
-| boasted      | 自诩               | rail          | 铁轨，扶手       |
-| railway      | 铁路，轨道         | switchman     | 扳道工           |
-| bundle       | 束，捆             | brilliant     | 灿烂的，杰出的   |
-| express      | 表达，快递，迅速的 | cabin         | 小屋             |
-| roar         | 咆哮               | locomotive    | 机车，火车头     |
-| engineer     | 工程师             | pursue        | 追赶             |
-| flatten      | 变平               | windowpane    | 玻璃窗           |
-| merchant     | 批发商，商人       | quench        | 熄灭             |
-| tremendous   | 极大的，巨大的     | computation   | 估计，计算       |
-| expert       | 专家               | leisure       | 闲暇，安逸       |
-| well         | 井                 | weariness     | 疲倦             |
-| immensity    | 巨大，无限         | wearing       | 令人疲倦的       |
-| trudge       | 跋涉，步履艰难的走 | feverish      | 发热的           |
-| reel         | 卷轴               | cross-examine | 盘问             |
-| ridge        | 山脊，山脉         | dune          | 沙丘             |
-| throb        | （有节奏的）跳动   | gleam         | 微光，闪光       |
-| radiation    | 辐射，放射物       | legend        | 传说，传奇       |
-| enchantment  | 魅力               | fragile       | 脆的，易碎的     |
-| pale         | 苍白的             | tremble       | 发抖，摇晃       |
-| suspicious   | 怀疑的，多疑的     | loyalty       | 忠诚，忠心       |
-| flame        | 火焰，热情         | extinguish    | 熄灭，压制       |
-| daybreak     | 黎明，破晓         | dig           | 挖，掘           |
-| pulley       | 滑轮，皮带轮       | bucket        | 桶，水桶         |
-| moan         | 呻吟，抱怨         | weathervane   | 风向标           |
-| hoist        | 吊起，抬高         | achievement   | 成就             |
-| shimmer      | 闪烁，闪光         | nourishment   | 食物，营养品     |
-| blind        | 盲目的，瞎的       | sketch        | 素描，速写       |
-| tear         | 撕掉，扯下         | descent       | 下降             |
-| anniversary  | 周年纪念日         | sorrow        | 悲伤，懊悔       |
-| stroll       | 散步，闲逛         | weep          | 哭泣             |
-| ruin         | 毁灭               | dangle        | 摇晃地悬挂       |
-| poison       | 毒药               | asunder       | 化为碎片的       |
-| leap         | 跳跃               | revolver      | 左轮手枪         |
-| apparent     | 显然的，表面上的   | metallic      | 金属的           |
-| loosen       | 放松，松开         | muffler       | 消音器           |
-| grave        | 重大的，严肃的     | temple        | 寺院，庙宇       |
+| WORD         | TRANSLATION      | WORD         | TRANSLATION      |
+| :---:        | :---:            | :---:        | :---:            |
+| neck         | 脖子             | pluck        | 采摘，扯         |
+| poetic       | 诗的，诗意的     | consequence  | 结果，重要性     |
+| conversation | 会话，交谈       | lamp         | 灯，照射器       |
+| lamplighter  | 点灯用具，灯夫   | occupation   | 占有，职业       |
+| respectfully | 尊敬地           | mop          | 用拖把拖         |
+| handkerchief | 手帕             | tragedy      | 悲剧，灾难       |
+| repose       | 休息，睡眠       | faithful     | 忠实的，忠诚的   |
+| merely       | 仅仅，只不过     | stride       | 大步，步幅       |
+| scorn        | 嘲笑             | ridiculous   | 可笑的，荒谬的   |
+| regret       | 后悔的           | dare         | 胆敢，挑战       |
+| seek         | 寻找             | compose      | 构成，组成       |
+| scale        | 规模             | imply        | 意味，暗示       |
+| transparent  | 透明的，显然的   | transform    | 转换             |
+| suspend      | 暂停，延缓       | resume       | 重新开始         |
+| explicit     | 明确的，清楚的   | conceptually | 概念上           |
+| voluminous   | 大量的           | pant         | 气喘             |
+| stately      | 庄严的           | inquiry      | 探究，调查       |
+| moral        | 道德的           | character    | 性格，品质       |
+| intoxicated  | 喝醉的           | furnish      | 提供，供应       |
+| stir         | 搅拌，激发       | sharpen      | 削尖，变锋利     |
+| sharp        | 锋利的，急剧的   | recital      | 吟诵             |
+| ink          | 墨水             | expectant    | 期待的           |
+| ephemeral    | 短暂的           | eternal      | 永恒的           |
+| speedy       | 快的，迅速的     | reputation   | 名誉，声望       |
+| continent    | 大陆，洲         | veritable    | 名副其实的       |
+| army         | 军队             | splendid     | 辉煌的           |
+| spectacle    | 场面，景象       | regulate     | 调节，控制       |
+| ballet       | 芭蕾舞           | opera        | 歌剧院           |
+| charge       | 掌管，充电，控告 | colleague    | 同事             |
+| toil         | 苦干，辛勤劳动   | care         | 照料,忧虑        |
+| wit          | 智慧，才智       | wander       | 徘徊，迷路       |
+| upright      | 正直的，垂直的   | crowd        | 挤满，人群       |
+| assembly     | 集会，集合       | pile         | 堆积，积累       |
+| pacific      | 太平洋，温和的   | islet        | 小岛             |
+| somewhat     | 有点，稍微       | fancy        | 喜爱，设想       |
+| adore        | 崇拜，爱慕       | coil         | 线圈，一圈       |
+| gold         | 金，金色         | courteous    | 有礼貌的，谦恭的 |
+| gaze         | 凝视，注视       | whence       | 从何处           |
+| twine        | 使缠绕           | ankle        | 脚踝             |
+| bracelet     | 手镯，手链       | innocent     | 无辜的，天真的   |
+| granite      | 花岗岩，冷酷无情 | homesick     | 想家的           |
+| riddle       | 谜语             | politely     | 有礼貌的         |
+| caravan      | 拖车，大蓬车     | echo         | 重复，随声附和   |
+| footstool    | 脚凳             | needle       | 针               |
+| point        | 要点，得分，尖   | harsh        | 严酷的，严厉的   |
+| forbidding   | 禁止，冷峻的     |              |                  |
+
+# Chapter 20
+
+| WORD     | TRANSLATION    | WORD    | TRANSLATION |
+| :---:    | :---:          | :---:   | :---:       |
+| abode    | 住处           | abloom  | 开满花的    |
+| overcome | 克服           | annoy   | 惹怒        |
+| dreadful | 可怕的，糟透的 | pretend | 假装，伪装  |
+| nurse    | 护士，照料     | humble  | 使谦恭      |
+
+## Chapter 21
+
+| WORD       | TRANSLATION | WORD     | TRANSLATION    |
+| :---:      | :---:       | :---:    | :---:          |
+| propose    | 建议，打算  | tame     | 驯养           |
+| disturbing | 令人不安的  | tie      | 系，关系       |
+| perplex    | 使困惑      | shine    | 照射，发光     |
+| underneath | 在...下面   | burrow   | 洞穴，地洞     |
+| grain      | 粮食，谷物  | yonder   | 在那边，那边的 |
+| wheat      | 小麦        | advance  | 发展，前进     |
+| rite       | 惯例，习俗  | village  | 村庄，村民     |
+| vineyard   | 葡萄园      | vacation | 假期           |
+| present    | 出席，礼物  | passerby | 过路人，行人   |
+| grumble    | 抱怨        | boasted  | 自诩           |
+
+## Chapter 22
+
+| WORD     | TRANSLATION        | WORD       | TRANSLATION    |
+| :---:    | :---:              | :---:      | :---:          |
+| railway  | 铁路，轨道         | switchman  | 扳道工         |
+| bundle   | 束，捆             | brilliant  | 灿烂的，杰出的 |
+| express  | 表达，快递，迅速的 | cabin      | 小屋           |
+| roar     | 咆哮               | locomotive | 机车，火车头   |
+| engineer | 工程师             | pursue     | 追赶           |
+| flatten  | 变平               | windowpane | 玻璃窗         |
+| rag      | 破布               | doll       | 洋娃娃         |
+
+## Chapter 23
+
+| WORD        | TRANSLATION        | WORD          | TRANSLATION      |
+| :---:       | :---:              | :---:         | :---:            |
+| merchant    | 批发商，商人       | quench        | 熄灭，解渴，结束 |
+| tremendous  | 极大的，巨大的     | computation   | 估计，计算       |
+| expert      | 专家               | leisure       | 闲暇，安逸       |
+
+## Chapter 24
+
+| WORD        | TRANSLATION        | WORD          | TRANSLATION      |
+| :---:       | :---:              | :---:         | :---:            |
+| well        | 井                 | weariness     | 疲倦             |
+| immensity   | 巨大，无限         | wearing       | 令人疲倦的       |
+| trudge      | 跋涉，步履艰难的走 | feverish      | 发热的           |
+| reel        | 卷轴               | cross-examine | 盘问             |
+| ridge       | 山脊，山脉         | dune          | 沙丘             |
+| throb       | （有节奏的）跳动   | gleam         | 微光，闪光       |
+| radiation   | 辐射，放射物       | legend        | 传说，传奇       |
+| enchantment | 魅力               | fragile       | 脆的，易碎的     |
+| pale        | 苍白的             | tremble       | 发抖，摇晃       |
+| suspicious  | 怀疑的，多疑的     | loyalty       | 忠诚，忠心       |
+| flame       | 火焰，热情         | extinguish    | 熄灭，压制       |
+| daybreak    | 黎明，破晓         |               |                  |
+
+## Chapter 25
+
+| WORD        | TRANSLATION  | WORD        | TRANSLATION  |
+| :---:       | :---:        | :---:       | :---:        |
+| dig         | 挖，掘       | pulley      | 滑轮，皮带轮 |
+| bucket      | 桶，水桶     | moan        | 呻吟，抱怨   |
+| weathervane | 风向标       | hoist       | 吊起，抬高   |
+| achievement | 成就         | shimmer     | 闪烁，闪光   |
+| nourishment | 食物，营养品 | blind       | 盲目的，瞎的 |
+| sketch      | 素描，速写   | tear        | 撕掉，扯下   |
+| descent     | 下降         | anniversary | 周年纪念日   |
+| sorrow      | 悲伤，懊悔   | stroll      | 散步，闲逛   |
+| weep        | 哭泣         |             |              |
+
+## Chapter 26
+
+| WORD     | TRANSLATION      | WORD     | TRANSLATION |
+| :---:    | :---:            | :---:    | :---:       |
+| ruin     | 毁灭             | dangle   | 摇晃地悬挂  |
+| poison   | 毒药             | asunder  | 化为碎片的  |
+| leap     | 跳跃             | revolver | 左轮手枪    |
+| apparent | 显然的，表面上的 | metallic | 金属的      |
+| loosen   | 放松，松开       | muffler  | 消音器      |
+| grave    | 重大的，严肃的   | temple   | 寺院，庙宇  |
