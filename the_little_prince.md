@@ -368,15 +368,30 @@
 | sketch      | 素描，速写   | tear        | 撕掉，扯下   |
 | descent     | 下降         | anniversary | 周年纪念日   |
 | sorrow      | 悲伤，懊悔   | stroll      | 散步，闲逛   |
-| weep        | 哭泣         |             |              |
+| weep        | 哭泣         | flush       | 脸红         |
 
 ## Chapter 26
 
-| WORD     | TRANSLATION      | WORD     | TRANSLATION |
-| :---:    | :---:            | :---:    | :---:       |
-| ruin     | 毁灭             | dangle   | 摇晃地悬挂  |
-| poison   | 毒药             | asunder  | 化为碎片的  |
-| leap     | 跳跃             | revolver | 左轮手枪    |
-| apparent | 显然的，表面上的 | metallic | 金属的      |
-| loosen   | 放松，松开       | muffler  | 消音器      |
-| grave    | 重大的，严肃的   | temple   | 寺院，庙宇  |
+| WORD     | TRANSLATION        | WORD        | TRANSLATION    |
+| :---:    | :---:              | :---:       | :---:          |
+| ruin     | 毁灭               | dangle      | 摇晃地悬挂     |
+| poison   | 毒药               | asunder     | 化为碎片的     |
+| leap     | 跳跃               | revolver    | 左轮手枪       |
+| apparent | 显然的，表面上的   | metallic    | 金属的         |
+| loosen   | 放松，松开         | muffler     | 消音器         |
+| grave    | 重大的，严肃的     | moisten     | 弄湿           |
+| temple   | 寺院，庙宇         | rifle       | 步枪           |
+| revive   | 苏醒               | irreparable | 不能挽回的     |
+| affair   | 事情，事务         | plea        | 恳求，请求     |
+| soothe   | 安慰，缓和         | shabby      | 破旧的，低劣的 |
+| trick    | 恶作剧，欺骗，哄骗 | malicious   | 恶意的，恶毒的 |
+| resolute | 坚决的，果断的     | rusty       | 生锈的，腐蚀的 |
+| pour     | 倒，灌，倾泻       | flash       | 闪光           |
+
+## Chapter 27
+
+| WORD      | TRANSLATION  | WORD         | TRANSLATION        |
+| :---:     | :---:        | :---:        | :---:              |
+| companion | 同伴，朋友   | leather      | 皮革，皮革制品     |
+| strap     | 带子，皮带   | absentminded | 心不在焉的，茫然的 |
+| landscape | 风景，风景画 | precede      | 领先，在...之前    |
