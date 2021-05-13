@@ -377,6 +377,7 @@
 | ruin     | 毁灭               | dangle      | 摇晃地悬挂     |
 | poison   | 毒药               | asunder     | 化为碎片的     |
 | leap     | 跳跃               | revolver    | 左轮手枪       |
+| spray    | 喷雾，喷雾剂       | fountain    | 喷泉           |
 | apparent | 显然的，表面上的   | metallic    | 金属的         |
 | loosen   | 放松，松开         | muffler     | 消音器         |
 | grave    | 重大的，严肃的     | moisten     | 弄湿           |
