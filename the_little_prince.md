@@ -381,7 +381,7 @@
 | apparent | 显然的，表面上的   | metallic    | 金属的         |
 | loosen   | 放松，松开         | muffler     | 围巾，消音器   |
 | grave    | 重大的，严肃的     | moisten     | 弄湿           |
-| temple   | 寺院，庙宇         | rifle       | 步枪           |
+| temple   | 寺院，庙宇，太阳穴 | rifle       | 步枪           |
 | revive   | 苏醒               | irreparable | 不能挽回的     |
 | affair   | 事情，事务         | plea        | 恳求，请求     |
 | soothe   | 安慰，缓和         | shabby      | 破旧的，低劣的 |
